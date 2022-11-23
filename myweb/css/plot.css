@@ -1,0 +1,17 @@
+header{
+    text-align:right;
+}
+pre{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: #1a6d80;
+    font-family: 华文行楷;
+}
+body{
+    background-color: black;
+}
+table{
+    width:1300px
+}

@@ -1,0 +1,27 @@
+body{
+    background-size:100%;
+}
+h1{
+    color: rgba(245, 237, 237, 0.63);
+    font-size:100px;
+    font-family: 华文行楷;
+    text-align: center;
+    margin-top: 3cm;
+}
+header{
+    text-align: right;
+    color: #36eae4;
+}
+table{
+    width:10cm;
+    height:3cm;
+    font-family: 华文楷体;
+    font-size: 30px;
+   color: rgb(106, 218, 175);
+align-content: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(106, 218, 175)
+
+}
